@@ -30,6 +30,11 @@ https://github.com/PySimpleGUI/PySimpleGUI
 
 A simple Python GUI framework focused on ease of use and rapid development for small to medium desktop apps.
 
+### Dear PyGui
+https://github.com/hoffstadt/DearPyGui
+
+A fast, GPU-powered Python graphical user interface framework for creating responsive desktop applications and developer tools.
+
 ## Suggested usage
 
 Use this repository as a reference hub when choosing a stack for your project:
@@ -37,6 +42,7 @@ Use this repository as a reference hub when choosing a stack for your project:
 - Need a terminal-first app? Start with Terminal.Gui.
 - Building a Python desktop app with a modern look? Explore CustomTkinter.
 - Want the fastest path to a simple GUI? Consider PySimpleGUI.
+- Need a fast Python GUI for tools, dashboards, or interactive applications? Explore Dear PyGui.
 
 ## Project goals
 
