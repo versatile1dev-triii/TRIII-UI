@@ -35,6 +35,11 @@ https://github.com/hoffstadt/DearPyGui
 
 A fast, GPU-powered Python graphical user interface framework for creating responsive desktop applications and developer tools.
 
+### LazyWinAdmin GUI
+https://github.com/lazywinadmin/LazyWinAdmin_GUI
+
+A legacy Windows administration toolkit built with PowerShell WinForms. Provides a comprehensive GUI for system inventory, connectivity checks, services management, networking, Active Directory utilities, and remote administration. A valuable reference for Windows desktop administration patterns and PowerShell GUI development.
+
 ## Suggested usage
 
 Use this repository as a reference hub when choosing a stack for your project:
@@ -43,6 +48,7 @@ Use this repository as a reference hub when choosing a stack for your project:
 - Building a Python desktop app with a modern look? Explore CustomTkinter.
 - Want the fastest path to a simple GUI? Consider PySimpleGUI.
 - Need a fast Python GUI for tools, dashboards, or interactive applications? Explore Dear PyGui.
+- Building Windows administration tools? Reference LazyWinAdmin GUI for PowerShell WinForms patterns.
 
 ## Project goals
 
@@ -53,7 +59,7 @@ Use this repository as a reference hub when choosing a stack for your project:
 
 ## Notes
 
-This repository is intentionally lightweight and acts as a resource index rather than a full application project. Individual projects and libraries may have their own installation, licensing, and usage requirements.
+This repository is intentionally lightweight and acts as a resource index rather than a full application project. Individual projects and libraries may have their own installation, licensing, and [...]
 
 ## Contributing
 
